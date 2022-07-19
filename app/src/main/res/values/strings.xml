@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarmy</string>
+    <string name="question_title">Please select the correct answer to dismiss the alarm</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
